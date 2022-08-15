@@ -6,7 +6,7 @@ links = "nidaqmx"
 license = "MIT"
 description = "System bindings for NI DAQmx API"
 keywords = ["ni", "ffi"]
-categories = ["external-ff-bindings"]
+categories = ["external-ffi-bindings"]
 repository = "https://github.com/WiresmithTech/ni-daqmx-sys"
 website = "https://github.com/WiresmithTech/ni-daqmx-sys"
 
