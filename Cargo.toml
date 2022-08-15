@@ -1,0 +1,13 @@
+[package]
+name = "ni-daqmx-sys"
+version = "20.7.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.60"
+
+
