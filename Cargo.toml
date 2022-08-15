@@ -2,6 +2,14 @@
 name = "ni-daqmx-sys"
 version = "20.7.0"
 edition = "2021"
+links = "nidaqmx"
+license = "MIT"
+description = "System bindings for NI DAQmx API"
+keywords = ["ni", "ffi"]
+categories = ["external-ff-bindings"]
+repository = "https://github.com/WiresmithTech/ni-daqmx-sys"
+website = "https://github.com/WiresmithTech/ni-daqmx-sys"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
