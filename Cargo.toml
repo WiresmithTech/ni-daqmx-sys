@@ -1,6 +1,6 @@
 [package]
 name = "ni-daqmx-sys"
-version = "20.7.0"
+version = "20.7.1"
 edition = "2021"
 links = "nidaqmx"
 license = "MIT"
